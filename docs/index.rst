@@ -34,7 +34,7 @@ You will need the following:
 
 * **Windows**
 
-  * TODO: Windows setup steps
+  * TODO:    I need to document how to setup a windows machine
 
 * **OSX**
 
