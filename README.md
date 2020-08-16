@@ -1,5 +1,4 @@
-=================================
- CoderDoto TC's java
+= CoderDoto Twin Cities Java Programming Resources
 =================================
 The documentation is available on our [Wiki Page](../../wiki).
 
