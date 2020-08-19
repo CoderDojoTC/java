@@ -1,0 +1,40 @@
+site_name: 'CoderDojo TC Java'
+nav:
+  - CoderDojo TC: https://coderdojotc.github.io/CoderDojoTC/
+  - Beginning Java - Repl.it:
+    - Introduction: beginner/00-introduction.md
+    - Objects: beginner/01-objects.md
+    - Variables: beginner/02-variables.md
+    - Data Types: beginner/03-datatypes.md
+    - Constructors: beginner/04-constructors.md
+  - Contributing:
+    - How to Contribute Examples: contribute.md
+  - Contact:
+    - Contact: contact.md
+
+site_description: 'Resources for teaching Java to CoderDojo Twin Cities students.'
+site_author: 'Aaron Korver'
+repo_name: 'java'
+repo_url: 'https://github.com/CoderDojoTC/java'
+edit_uri: 'blob/master/docs'
+theme:
+  name: material
+  logo: img/coderdojo-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  feature:
+    tabs: true
+  custom_dir: 'theme'
+  include_sidebar: true
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+  - codehilite:
+      linenums: true
+plugins:
+    - search
+markdown_extensions:
+  - codehilite
